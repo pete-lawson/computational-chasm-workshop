@@ -2,7 +2,6 @@
 Workshop materials and Jupyter notebook for the __Crossing the Computational Chasm - Infrastructure Agnostic Data Visualization using Jupyter Notebooks__ presented at Johns Hopkins University
 ## Table of Contents
 
-1. [Workshop Review](#review)
+1. [Workshop Learning Outcomes](#review)
 2. [Jupyter Notebook Resources](#jupyter)
-4. [Color in Data Visualization](#color)
-5. [Additional Resources](#resources)
+3. [Additional Resources](#resources)
