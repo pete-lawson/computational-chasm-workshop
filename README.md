@@ -8,6 +8,7 @@ To deploy the `jupyter_notebook_visualization_demo` interactive Jupyter Notebook
 1. [Workshop Learning Objectives](#objectives)
 2. [Deploying a Reproducible Notebook with Binder](#binder)
 3. [Additional Resources](#resources)
+4. [License](#license)
 
 
 <a name="outcomes"/>
@@ -18,5 +19,7 @@ To deploy the `jupyter_notebook_visualization_demo` interactive Jupyter Notebook
 2. Understand how `Jupyter Notebooks` can be decoupled into a `server` and `web-client` and how this can be useful for scaling data analysis.
 3. Understand how to deploy a `Jupyter Notebook` using the service Binder to enable reproducible research.
 
+<a name="license"/>
+## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
