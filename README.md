@@ -1,10 +1,12 @@
 # Johns Hopkins Computational Chasm Workshop
 Workshop materials and Jupyter notebook for the __Crossing the Computational Chasm - Infrastructure Agnostic Data Visualization using Jupyter Notebooks__ presented at Johns Hopkins University
 
+To deploy the `jupyter_notebook_visualization_demo` interactive Jupyter Notebook, please follow the Binder link:
+
 ## Table of Contents
 
 1. [Workshop Learning Objectives](#objectives)
-2. [Jupyter Notebook Resources](#jupyter)
+2. [Deploying a Reproducible Notebook with Binder](#binder)
 3. [Additional Resources](#resources)
 
 
@@ -17,3 +19,4 @@ Workshop materials and Jupyter notebook for the __Crossing the Computational Cha
 3. Understand how to deploy a `Jupyter Notebook` using the service Binder to enable reproducible research.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
