@@ -1,0 +1,10 @@
+name: computational-chasm-demo 
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
