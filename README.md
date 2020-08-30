@@ -5,3 +5,4 @@ Workshop materials and Jupyter notebook for the __Crossing the Computational Cha
 1. [Workshop Learning Outcomes](#review)
 2. [Jupyter Notebook Resources](#jupyter)
 3. [Additional Resources](#resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pete-lawson/computational-chasm-workshop/master?filepath=https%3A%2F%2Fgithub.com%2Fpete-lawson%2Fcomputational-chasm-workshop%2Fblob%2Fmaster%2Fcomputational_chasm_workshop.ipynb)
