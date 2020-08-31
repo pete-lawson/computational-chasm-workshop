@@ -1,6 +1,14 @@
 # Johns Hopkins Computational Chasm Workshop
 Workshop materials including two Jupyter notebook, one with slides, and one for an interactive visualization demonstration, for the __Crossing the Computational Chasm - Infrastructure Agnostic Data Visualization using Jupyter Notebooks__ presented at Johns Hopkins University September 1st, 2020.
 
+### Slides for the Workshop
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pete-lawson/computational-chasm-workshop/master?filepath=computational_chasm_workshop.ipynb)
+
+### Deploy the Interactive Data Visualization in Altair Tutorial
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pete-lawson/computational-chasm-workshop/blob/master/interactive_data_visualization_with_altair.ipynb)
+
 ## Table of Contents
 
 1. [Workshop Learning Objectives](#objectives)
