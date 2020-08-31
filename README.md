@@ -3,9 +3,8 @@ Workshop materials and Jupyter notebook for the __Crossing the Computational Cha
 
 To deploy the `jupyter_notebook_visualization_demo` interactive Jupyter Notebook, please follow the Binder link:
 ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pete-lawson/computational-chasm-workshop/master?filepath=interactive_data_visualization_with_altair.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pete-lawson/computational-chasm-workshop/blob/master/interactive_data_visualization_with_altair.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pete-lawson/computational-chasm-workshop/blob/master/interactive_data_visualization_with_altair.ipynb)
 ## Table of Contents
 
 1. [Workshop Learning Objectives](#objectives)
