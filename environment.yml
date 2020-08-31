@@ -5,6 +5,8 @@ dependencies:
   - python
   - numpy
   - altair
+  - vega
+  - vega_datasets
   - matplotlib
   - pandas
   - rise
