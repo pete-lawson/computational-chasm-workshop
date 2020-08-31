@@ -23,8 +23,8 @@ Workshop materials and additional resources for the __Crossing the Computational
 This workshop introduces `Jupyter Notebooks` as a tool to perform interactive data visualization in way that is consistent, whether you are running it on a laptop, a high-performance computer like MARCC, or a distributed cluster-computing environment like Apache Spark. Additionally this workshop introduces a workflow for creating reproducible and interactive Jupyter Notebooks with a digital object identifier (DOI). Finally, this workshop motivates the use of Jupyter Notebooks through interactive data visualization with `Altair`.
 
 1. Understand what `Jupyter Notebooks` are, how they are used, and when it is appropriate to use a `Jupyter Notebook` for data visualization and analysis.
-2. Understand how `Jupyter Notebooks` can be used for scaling data analysis.
-3. Understand how to deploy a `Jupyter Notebook` using the service Binder to enable reproducible research.
+2. Understand how `Jupyter Notebooks` can be used for scaling data visualization and analysis.
+3. Understand how to deploy a `Jupyter Notebook` using a hosted service like Binder or Google Colaboratory.
 
 <a name="resources"/>
 
@@ -72,8 +72,8 @@ will begin automatically. To exit or enter the slideshow either use the button
 (“Enter/Exit Live Reveal Slideshow”) in the toolbar, or use the keyboard shortcut `Alt-r`. 
 
 To navigate a __RISE__ presentation use `SpaceBar` to go forward, and
-`Shift-SpaceBar` to go backward, or you can use the visual controller in the slideshow right
-bottom corner (which can be hidden using `,`).  
+`Shift-SpaceBar` to go backward, or you can use the visual controller in the
+slideshow right bottom corner. To hide the interface overlay (or bring it back after being hidden) use the keyboard shortcut `,`.  
 
 For more information about using the __RISE__ presentation plugin in Jupyter
 Notebook, please refer to the [RISE
