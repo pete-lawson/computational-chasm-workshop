@@ -30,7 +30,6 @@ Workshop materials and Jupyter notebook for the __Crossing the Computational Cha
 
 ### Deploy the Interactive Data Visualization in Altair Tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pete-lawson/computational-chasm-workshop/master?filepath=interactive_data_visualization_with_altair.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pete-lawson/computational-chasm-workshop/blob/master/interactive_data_visualization_with_altair.ipynb)
 ## License
 
