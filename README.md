@@ -72,10 +72,12 @@ will begin automatically. To exit or enter the slideshow either use the button
 (“Enter/Exit Live Reveal Slideshow”) in the toolbar, or use the keyboard shortcut `Alt-r`. 
 
 To navigate a __RISE__ presentation use `SpaceBar` to go forward, and
-`Shift-SpaceBar` to go backward (or the visual controller in the slideshow right
-bottom corner). 
+`Shift-SpaceBar` to go backward, or you can use the visual controller in the slideshow right
+bottom corner (which can be hidden using `,`).  
 
-For more information about using the __RISE__ presentation plugin in Jupyter Notebook, please refer to the [RISE documentation](https://rise.readthedocs.io/en/stable/index.html)
+For more information about using the __RISE__ presentation plugin in Jupyter
+Notebook, please refer to the [RISE
+documentation](https://rise.readthedocs.io/en/stable/index.html)
 
 <a name="license"/>
 
