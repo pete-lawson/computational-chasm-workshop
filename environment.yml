@@ -2,11 +2,4 @@ name: computational-chasm-demo
 channels:
   - conda-forge
 dependencies:
-  - python
-  - numpy
-  - altair
-  - vega
-  - vega_datasets
-  - matplotlib
-  - pandas
   - rise
