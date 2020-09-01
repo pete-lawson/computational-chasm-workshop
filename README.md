@@ -69,10 +69,10 @@ Binder sessions shutdown after 20 minutes of activity, but if in active use can 
 Python 2 and 3, R, Julia, Sage, Cython, and GNU Octave (a Scientific Programming Language with Syntax almost identical to MATLAB).
 
 #### Performance
-2 GB of RAM is available for Binder instances, with no explicit limit on disk usage, although they ask out of consideration for the free and open nature of the service that you restrict data files to no more than a few hundred megabytes. 
+1 GB of RAM is available for CoCalc instances, with 3 GB of disk space.
 
 #### Availability
-Binder sessions shutdown after 20 minutes of activity, but if in active use can be run for 12 hours. Up to 100 users can simultaneously access a Binder instance for a given repository. 
+CoCalc sessions shutdown after 30 minutes of activity, but if in active use can be run for 24 hours. 
 
 [<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
