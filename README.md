@@ -76,6 +76,16 @@ CoCalc sessions shutdown after 30 minutes of activity, but if in active use can 
 
 [<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
+[Google Colaboratory](https://colab.research.google.com/) offers the least open service for launching an interactive `Jupyter Notebook`, and it does alter the user interface in such a way that it can 
+#### Supported Languages
+Python 2 and 3, R, and Swift.
+
+#### Performance
+1 GB of RAM is available for CoCalc instances, with 3 GB of disk space.
+
+#### Availability
+CoCalc sessions shutdown after 30 minutes of activity, but if in active use can be run for 24 hours. 
+
 <a name="resources"/>
 
 ## Additional Resources 
