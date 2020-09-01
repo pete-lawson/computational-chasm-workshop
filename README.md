@@ -76,7 +76,8 @@ CoCalc sessions shutdown after 30 minutes of activity, but if in active use can 
 
 [<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
-[Google Colaboratory](https://colab.research.google.com/) offers the least open service for launching an interactive `Jupyter Notebook`, and it does alter the user interface in such a way that it can 
+[Google Colaboratory](https://colab.research.google.com/) offers the least open service for launching an interactive `Jupyter Notebook`, and it does alter the user interface in such a way that it can be more challenging to use than other services that strive to provide the native `Jupyter Notebook` environment like Binder. Google Colaboratory does provide a collaborative feature, although real-time editing is slightly delayed, as opposed to CoCalc. The greatest feature of Google Colaboratory notebooks are the generous abundance of computational resources, making it an excellent choice when prototyping data visualizations and machine learning at a larger scale. The addition of a Graphics Processing Unit (GPU) makes it especially useful for researchers that may note have ready access to a GPU, and would like to explore 3D data visualization or machine learning. 
+
 #### Supported Languages
 Python 2 and 3, R, and Swift.
 
@@ -85,8 +86,9 @@ Performance varies depending on resource availability, however it is generally
 much higher than other services, although Colaboratory generally provides 13GB
 of RAM, approximately 100 GB of disk space, a single-core dual-thread processor,
 and a Tesla K80 GPU.
+
 #### Availability
-CoCalc sessions shutdown after 30 minutes of activity, but if in active use can be run for 24 hours. 
+Google Colaboratory sessions shutdown after 60 minutes of activity, but if in active use can be run for 12 hours. 
 
 <a name="resources"/>
 
