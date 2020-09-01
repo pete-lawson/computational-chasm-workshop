@@ -44,6 +44,7 @@ reproducibility, and available computational resources.
 <a name="resources"/>
 
 ### Binder
+<a href="https://mybinder.org/"><img alt="Binder" src="figures/binder_logo.svg" width=150"></a>
 
 [Binder](https://mybinder.org/) allows you to launch an interactive `Jupyter Notebook` instance. It does
 this by reading from a configuration file stored in the repository you are
@@ -63,6 +64,7 @@ All languages supported by Jupyter.
 Binder sessions shutdown after 20 minutes of activity, but if in active use can be run for 12 hours. Up to 100 users can simultaneously access a Binder instance for a given repository. 
 
 ### CoCalc
+
 
 ### Google Colaboratory 
 
