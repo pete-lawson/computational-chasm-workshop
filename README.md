@@ -41,7 +41,6 @@ A number of services exist for deploying `Jupyter Notebooks` on the cloud for
 free. A non-exhaustive list of services is highlighted below, with services
 selected that stand-out due to relevant features, such as collaboration,
 reproducibility, and available computational resources.
-<a name="resources"/>
 
 [<img src="figures/binder_logo.svg">](http://mybinder.org/)
 
@@ -62,11 +61,13 @@ All languages supported by Jupyter.
 #### Availability
 Binder sessions shutdown after 20 minutes of activity, but if in active use can be run for 12 hours. Up to 100 users can simultaneously access a Binder instance for a given repository. 
 
-[<img src="figures/cocalc_logo.png" width="150">](http://cocalc.com/)
+[<img src="figures/cocalc_logo.png" width="150">](https://cocalc.com/)
 
+[CoCalc](https://cocalc.com/) is short for "collaborative calculation". It allows you to launch an interactive environment based on, and very similar to `Jupyter Notebook`, although it adds some interesting additional functionality, specifically "time travel", a version control layer that allows you to step though all the changes you made to your notebook using a slider. Most importantly, what makes CoCalc stand out is its real-time collaboration features. This feature allows you to collaborate with others in real-time on the same notebook, and a chat window is included, via text or video. This makes CoCalc a powerful instructor tool, as well as a very useful tool for pair programming.  
 
-[<img src="figures/colab_logo.jpeg" width="150">](http://colab.research.google.com/)
+[<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
+<a name="resources"/>
 
 ## Additional Resources 
 
