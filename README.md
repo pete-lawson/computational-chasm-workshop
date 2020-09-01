@@ -65,7 +65,7 @@ Binder sessions shutdown after 20 minutes of activity, but if in active use can 
 [<img src="figures/cocalc_logo.png">](http://cocalc.com/)
 
 
-[<img src="figures/colab_logo.png">](http://colab.research.google.com/)
+[<img src="figures/colab_logo.jpeg">](http://colab.research.google.com/)
 
 
 ## Additional Resources 
