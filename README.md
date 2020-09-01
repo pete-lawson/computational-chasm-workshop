@@ -81,8 +81,10 @@ CoCalc sessions shutdown after 30 minutes of activity, but if in active use can 
 Python 2 and 3, R, and Swift.
 
 #### Performance
-1 GB of RAM is available for CoCalc instances, with 3 GB of disk space.
-
+Performance varies depending on resource availability, however it is generally
+much higher than other services, although Colaboratory generally provides 13GB
+of RAM, approximately 100 GB of disk space, a single-core dual-thread processor,
+and a Tesla K80 GPU.
 #### Availability
 CoCalc sessions shutdown after 30 minutes of activity, but if in active use can be run for 24 hours. 
 
