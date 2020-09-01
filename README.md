@@ -20,7 +20,14 @@ Workshop materials and additional resources for the __Crossing the Computational
 <a name="objectives"/>
 
 ## Workshop Learning Objectives
-This workshop introduces `Jupyter Notebooks` as a tool to perform interactive data visualization in way that is consistent, whether you are running it on a laptop, a high-performance computer like MARCC, or a distributed cluster-computing environment like Apache Spark. Additionally this workshop introduces a workflow for creating reproducible and interactive Jupyter Notebooks with a digital object identifier (DOI). Finally, this workshop motivates the use of Jupyter Notebooks through interactive data visualization with `Altair`.
+This workshop introduces `Jupyter Notebooks` as a tool to perform interactive
+data visualization in way that is consistent, whether you are running it on a
+laptop, a high-performance computer like MARCC, or a distributed
+cluster-computing environment like Apache Spark. Additionally this workshop
+introduces a workflow for creating reproducible and interactive Jupyter
+Notebooks with a digital object identifier (DOI). Finally, this workshop
+motivates the use of Jupyter Notebooks through interactive data visualization
+with `Altair`.
 
 1. Understand what `Jupyter Notebooks` are, how they are used, and when it is appropriate to use a `Jupyter Notebook` for data visualization and analysis.
 2. Understand how `Jupyter Notebooks` can be used for scaling data visualization and analysis.
@@ -30,8 +37,28 @@ This workshop introduces `Jupyter Notebooks` as a tool to perform interactive da
 
 ## Deploying an Interactive Jupyter Notebook
 
-A number of services exist for deploying `Jupyter Notebooks` on the cloud for free. A non-exhaustive list of services is highlighted below, with services selected that stand-out due to relevant features, such as collaboration, reproducibility, and available computational resources.
+A number of services exist for deploying `Jupyter Notebooks` on the cloud for
+free. A non-exhaustive list of services is highlighted below, with services
+selected that stand-out due to relevant features, such as collaboration,
+reproducibility, and available computational resources.
 <a name="resources"/>
+
+### Binder
+
+[Binder](https://mybinder.org/) allows you to launch an interactive `Jupyter Notebook` instance. It does
+this by reading from a configuration file stored in the repository you are
+launching, either `environment.yml` if you are using Anaconda Python, or
+`requirements.txt` if you are just using the `pip` Python package manager. This
+is a benefit over other services like Google Colaboratory because it ensures
+your Python environment is reproducible, that is you will be installing the same
+packages whether you run it on your laptop, an HPC, or Binder.
+
+#### Supported Languages
+All languages supported by Jupyter.
+
+### CoCalc
+
+### Google Colaboratory 
 
 ## Additional Resources 
 
