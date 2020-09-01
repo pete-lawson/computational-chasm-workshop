@@ -62,10 +62,10 @@ All languages supported by Jupyter.
 #### Availability
 Binder sessions shutdown after 20 minutes of activity, but if in active use can be run for 12 hours. Up to 100 users can simultaneously access a Binder instance for a given repository. 
 
-[<img src="figures/cocalc_logo.png" width="100">](http://cocalc.com/)
+[<img src="figures/cocalc_logo.png" width="150">](http://cocalc.com/)
 
 
-[<img src="figures/colab_logo.jpeg" width="100">](http://colab.research.google.com/)
+[<img src="figures/colab_logo.jpeg" width="150">](http://colab.research.google.com/)
 
 
 ## Additional Resources 
