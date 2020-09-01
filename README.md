@@ -44,39 +44,72 @@ reproducibility, and available computational resources.
 
 [<img src="figures/binder_logo.svg">](http://mybinder.org/)
 
-[Binder](https://mybinder.org/) allows you to launch an interactive `Jupyter Notebook` instance. It does
-this by reading from a configuration file stored in the repository you are
-launching, either `environment.yml` if you are using Anaconda Python, or
-`requirements.txt` if you are just using the `pip` Python package manager. This
-is a benefit over other services like Google Colaboratory because it ensures
-your Python environment is reproducible, that is you will be installing the same
-packages whether you run it on your laptop, an HPC, or Binder. Perhaps the most compelling feature of Binder is that it can support reproducible research by launching Github repositories that have been archived on Zenodo with a unique digital object identifier (DOI). 
+[Binder](https://mybinder.org/) allows you to launch an interactive `Jupyter
+Notebook` instance. It does this by reading from a configuration file stored in
+the repository you are launching, either `environment.yml` if you are using
+Anaconda Python, or `requirements.txt` if you are just using the `pip` Python
+package manager. This is a benefit over other services like Google Colaboratory
+because it ensures your Python environment is reproducible, that is you will be
+installing the same packages whether you run it on your laptop, an HPC, or
+Binder. Perhaps the most compelling feature of Binder is that it can support
+reproducible research by launching Github repositories that have been archived
+on Zenodo with a unique digital object identifier (DOI).
 
 #### Supported Languages
 All languages supported by Jupyter.
 
 #### Performance
-2 GB of RAM is available for Binder instances, with no explicit limit on disk usage, although they ask out of consideration for the free and open nature of the service that you restrict data files to no more than a few hundred megabytes. 
+2 GB of RAM is available for Binder instances, with no explicit limit on disk
+usage, although they ask out of consideration for the free and open nature of
+the service that you restrict data files to no more than a few hundred
+megabytes.
 
 #### Availability
-Binder sessions shutdown after 20 minutes of activity, but if in active use can be run for 12 hours. Up to 100 users can simultaneously access a Binder instance for a given repository. 
+Binder sessions shutdown after 20 minutes of activity, but if in active use can
+be run for 12 hours. Up to 100 users can simultaneously access a Binder instance
+for a given repository.
 
 [<img src="figures/cocalc_logo.png" width="150">](https://cocalc.com/)
 
-[CoCalc](https://cocalc.com/) is short for "collaborative calculation". It allows you to launch an interactive environment based on, and very similar to `Jupyter Notebook`, although it adds some interesting additional functionality, specifically "time travel", a version control layer that allows you to step though all the changes you made to your notebook using a slider, and a real-time collaboration features. The real-time collaboration is the stand-out feature for CoCalc. The real-time collaboration feature allows you to collaborate with others in real-time on the same notebook, and interact through a chat window using text or video. This makes CoCalc a powerful instructor tool for running interactive workshops, as well as a very useful tool for pair programming. While much of the CoCalc functionality requires a subscription, CoCalc is also available as a Docker image that allows for the deployment of a free multi-user CoCalc server.
+[CoCalc](https://cocalc.com/) is short for "collaborative calculation". It
+allows you to launch an interactive environment based on, and very similar to
+`Jupyter Notebook`, although it adds some interesting additional functionality,
+specifically "time travel", a version control layer that allows you to step
+though all the changes you made to your notebook using a slider, and a real-time
+collaboration features. The real-time collaboration is the stand-out feature for
+CoCalc. The real-time collaboration feature allows you to collaborate with
+others in real-time on the same notebook, and interact through a chat window
+using text or video. This makes CoCalc a powerful instructor tool for running
+interactive workshops, as well as a very useful tool for pair programming. While
+much of the CoCalc functionality requires a subscription, CoCalc is also
+available as a Docker image that allows for the deployment of a free multi-user
+CoCalc server.
 
 #### Supported Languages
-Python 2 and 3, R, Julia, Sage, Cython, and GNU Octave (a Scientific Programming Language with Syntax almost identical to MATLAB).
+Python 2 and 3, R, Julia, Sage, Cython, and GNU Octave (a Scientific Programming
+Language with Syntax almost identical to MATLAB).
 
 #### Performance
 1 GB of RAM is available for CoCalc instances, with 3 GB of disk space.
 
 #### Availability
-CoCalc sessions shutdown after 30 minutes of activity, but if in active use can be run for 24 hours. 
+CoCalc sessions shutdown after 30 minutes of activity, but if in active use can
+be run for 24 hours.
 
 [<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
-[Google Colaboratory](https://colab.research.google.com/) offers the least open service for launching an interactive `Jupyter Notebook`, and it does alter the user interface in such a way that it can be more challenging to use than other services that strive to provide the native `Jupyter Notebook` environment like Binder. Google Colaboratory does provide a collaborative feature, although real-time editing is slightly delayed, as opposed to CoCalc. The greatest feature of Google Colaboratory notebooks are the generous abundance of computational resources, making it an excellent choice when prototyping data visualizations and machine learning at a larger scale. The addition of a Graphics Processing Unit (GPU) makes it especially useful for researchers that may note have ready access to a GPU, and would like to explore 3D data visualization or machine learning. 
+[Google Colaboratory](https://colab.research.google.com/) offers the least open
+service for launching an interactive `Jupyter Notebook`, and it does alter the
+user interface in such a way that it can be more challenging to use than other
+services that strive to provide the native `Jupyter Notebook` environment like
+Binder. Google Colaboratory does provide a collaborative feature, although
+real-time editing is slightly delayed, as opposed to CoCalc. The greatest
+feature of Google Colaboratory notebooks are the generous abundance of
+computational resources, making it an excellent choice when prototyping data
+visualizations and machine learning at a larger scale. The addition of a
+Graphics Processing Unit (GPU) makes it especially useful for researchers that
+may note have ready access to a GPU, and would like to explore 3D data
+visualization or machine learning.
 
 #### Supported Languages
 Python 2 and 3, R, and Swift.
@@ -88,7 +121,8 @@ of RAM, approximately 100 GB of disk space, a single-core dual-thread processor,
 and a Tesla K80 GPU.
 
 #### Availability
-Google Colaboratory sessions shutdown after 60 minutes of activity, but if in active use can be run for 12 hours. 
+Google Colaboratory sessions shutdown after 60 minutes of activity, but if in
+active use can be run for 12 hours.
 
 <a name="resources"/>
 
