@@ -44,8 +44,7 @@ reproducibility, and available computational resources.
 <a name="resources"/>
 
 ### Binder
-<a href="https://mybinder.org/"><img alt="Binder" src="figures/binder_logo.svg" width=150"></a>
-
+[<img src="figures/binder_logo.svg">](http://mybinder.org/)
 [Binder](https://mybinder.org/) allows you to launch an interactive `Jupyter Notebook` instance. It does
 this by reading from a configuration file stored in the repository you are
 launching, either `environment.yml` if you are using Anaconda Python, or
