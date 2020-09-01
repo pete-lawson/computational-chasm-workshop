@@ -50,7 +50,7 @@ launching, either `environment.yml` if you are using Anaconda Python, or
 `requirements.txt` if you are just using the `pip` Python package manager. This
 is a benefit over other services like Google Colaboratory because it ensures
 your Python environment is reproducible, that is you will be installing the same
-packages whether you run it on your laptop, an HPC, or Binder.
+packages whether you run it on your laptop, an HPC, or Binder. Perhaps the most compelling feature of Binder is that it can support reproducible research by launching Github repositories that have been archived on Zenodo with a unique digital object identifier (DOI). 
 
 #### Supported Languages
 All languages supported by Jupyter.
