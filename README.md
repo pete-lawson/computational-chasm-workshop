@@ -12,7 +12,7 @@ Workshop materials and additional resources for the __Crossing the Computational
 ## Table of Contents
 
 1. [Workshop Learning Objectives](#objectives)
-2. [Deploying a Reproducible Notebook](#deploy)
+2. [Deploying an Interactive Notebook](#deploy)
 3. [Additional Resources](#resources)
 4. [License](#license)
 
@@ -26,6 +26,11 @@ This workshop introduces `Jupyter Notebooks` as a tool to perform interactive da
 2. Understand how `Jupyter Notebooks` can be used for scaling data visualization and analysis.
 3. Understand how to deploy a `Jupyter Notebook` using a hosted service like Binder or Google Colaboratory.
 
+<a name="deploy"/>
+
+## Deploying an Interactive Jupyter Notebook
+
+A number of services exist for deploying `Jupyter Notebooks` on the cloud for free. A non-exhaustive list of services is highlighted below, with services selected that stand-out due to relevant features, such as collaboration, reproducibility, and available computational resources.
 <a name="resources"/>
 
 ## Additional Resources 
