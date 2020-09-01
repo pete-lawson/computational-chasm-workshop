@@ -63,7 +63,7 @@ Binder sessions shutdown after 20 minutes of activity, but if in active use can 
 
 [<img src="figures/cocalc_logo.png" width="150">](https://cocalc.com/)
 
-[CoCalc](https://cocalc.com/) is short for "collaborative calculation". It allows you to launch an interactive environment based on, and very similar to `Jupyter Notebook`, although it adds some interesting additional functionality, specifically "time travel", a version control layer that allows you to step though all the changes you made to your notebook using a slider. Most importantly, what makes CoCalc stand out is its real-time collaboration features. This feature allows you to collaborate with others in real-time on the same notebook, and a chat window is included, via text or video. This makes CoCalc a powerful instructor tool, as well as a very useful tool for pair programming.  
+[CoCalc](https://cocalc.com/) is short for "collaborative calculation". It allows you to launch an interactive environment based on, and very similar to `Jupyter Notebook`, although it adds some interesting additional functionality, specifically "time travel", a version control layer that allows you to step though all the changes you made to your notebook using a slider, and a real-time collaboration features. The real-time collaboration is the stand-out feature for CoCalc. The real-time collaboration feature allows you to collaborate with others in real-time on the same notebook, and interact through a chat window using text or video. This makes CoCalc a powerful instructor tool, as well as a very useful tool for pair programming.  
 
 [<img src="figures/colab_logo.jpeg" width="150">](https://colab.research.google.com/)
 
